@@ -18,7 +18,7 @@ body {
 /* 暗めの虹色テーマ */
 body.stage-0 { background-color: #8B0000; }  /* ダークレッド */
 body.stage-1 { background-color: #A04000; }  /* ダークオレンジ */
-body.stage-2 { background-color: #B7950B; }  /* ダークイエロー */
+body.stage-2 { background-color: #a78d23; }  /* ダークイエロー */
 body.stage-3 { background-color: #145A32; }  /* ダークグリーン */
 body.stage-4 { background-color: #1A5276; }  /* ダークブルー */
 body.stage-5 { background-color: #2C3E50; }  /* ダークインディゴ */
