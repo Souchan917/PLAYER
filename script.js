@@ -33,13 +33,13 @@ const STAGE_URLS = [
 // サムネイル画像のパス定義
 const PUZZLE_IMAGES = {
     0: "assets/images/puzzles/Do.png",      // Doのサムネイル
-    1: "assets/images/puzzles/coming_soon.png",       // Coming Soon用サムネイル
-    2: "assets/images/puzzles/coming_soon.png",
-    3: "assets/images/puzzles/coming_soon.png",
-    4: "assets/images/puzzles/coming_soon.png",
-    5: "assets/images/puzzles/coming_soon.png",
-    6: "assets/images/puzzles/coming_soon.png",
-    7: "assets/images/puzzles/coming_soon.png"
+    1: "assets/images/puzzles/puzzle999.png",       // Coming Soon用サムネイル
+    2: "assets/images/puzzles/puzzle999.png",
+    3: "assets/images/puzzles/puzzle999.png",
+    4: "assets/images/puzzles/puzzle999.png",
+    5: "assets/images/puzzles/puzzle999.png",
+    6: "assets/images/puzzles/puzzle999.png",
+    7: "assets/images/puzzles/puzzle999.png"
 };
 
 //====================================================
