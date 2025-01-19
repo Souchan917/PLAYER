@@ -32,7 +32,7 @@ const STAGE_URLS = [
 
 // サムネイル画像のパス定義
 const PUZZLE_IMAGES = {
-    0: "assets/images/puzzles/Do.png",      // Doのサムネイル
+    0: "assets/images/puzzles/Doplayer.png",      // Doのサムネイル
     1: "assets/images/puzzles/puzzle999.png",       // Coming Soon用サムネイル
     2: "assets/images/puzzles/puzzle999.png",
     3: "assets/images/puzzles/puzzle999.png",
